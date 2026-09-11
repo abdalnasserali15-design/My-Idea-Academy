@@ -1,0 +1,17 @@
+insert into public.units (id, course_id, title, order_index) values
+  ('6d2156e8-d4b0-4d1a-a9db-8728b30810a4', '2aac732f-bf20-491c-9128-2afdbc056d7c', '{"en": "Network Security & Protocols"}', 1),
+  ('8faa1f95-f823-4bc6-bc0f-8e8257702e5d', '2aac732f-bf20-491c-9128-2afdbc056d7c', '{"en": "Cloud Security"}', 2),
+  ('ef1d29e3-a4e6-4d02-b104-3d9d81c9a304', '2aac732f-bf20-491c-9128-2afdbc056d7c', '{"en": "Application Security"}', 3),
+  ('c4be79c7-4470-49b3-9b14-43aca2dd5fad', '2aac732f-bf20-491c-9128-2afdbc056d7c', '{"en": "Wireless & Mobile Security"}', 4),
+  ('c1d7b9a9-5431-4afd-a883-72f8a66c352f', '2aac732f-bf20-491c-9128-2afdbc056d7c', '{"en": "Cryptography in Practice"}', 5),
+  ('8f673e9a-abf4-4b26-b87c-ca60908fa138', '2aac732f-bf20-491c-9128-2afdbc056d7c', '{"en": "Penetration Testing Methodology"}', 6),
+  ('c02cf568-c225-4c83-8c1e-f164b04a57a5', '2aac732f-bf20-491c-9128-2afdbc056d7c', '{"en": "Digital Forensics"}', 7),
+  ('b6f3fb34-4367-4884-bcf2-1df17c9077ab', '2aac732f-bf20-491c-9128-2afdbc056d7c', '{"en": "Security Operations & Threat Intelligence"}', 8),
+  ('7a916769-7e42-48ca-bf12-e7035b23238a', '2aac732f-bf20-491c-9128-2afdbc056d7c', '{"en": "Governance, Risk & Compliance"}', 9),
+  ('e601e536-aa07-4ea6-ac3a-75b4f25820ec', '2aac732f-bf20-491c-9128-2afdbc056d7c', '{"en": "Zero Trust Architecture"}', 10),
+  ('3e04dc34-3cb6-42f0-aaae-faeee57fe7b0', '2aac732f-bf20-491c-9128-2afdbc056d7c', '{"en": "Container & Cloud-Native Security"}', 11),
+  ('4155005a-28fb-4916-98ed-9703604bbd84', '2aac732f-bf20-491c-9128-2afdbc056d7c', '{"en": "Endpoint Security & EDR"}', 12),
+  ('6afb1a2b-30b3-4128-a038-afc471d3309e', '2aac732f-bf20-491c-9128-2afdbc056d7c', '{"en": "Business Continuity & Disaster Recovery"}', 13),
+  ('42959e6b-1565-47d6-a374-650aec9c4183', '2aac732f-bf20-491c-9128-2afdbc056d7c', '{"en": "Supply Chain Security"}', 14),
+  ('22a1be2f-f9e1-48bc-901f-a90585d01820', '2aac732f-bf20-491c-9128-2afdbc056d7c', '{"en": "AI & Machine Learning Security"}', 15),
+  ('7a1de415-3a43-490d-b119-0c29b6793141', '2aac732f-bf20-491c-9128-2afdbc056d7c', '{"en": "Career Paths in Cybersecurity"}', 16);

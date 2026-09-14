@@ -7,7 +7,7 @@ const DAILY_TTS_LIMIT = 15;
 const MAX_TEXT_LENGTH = 2000;
 const MODEL_ID = "eleven_multilingual_v2";
 
-const VOICE_ID = "21m00Tcm4TlvDq8ikWAM";
+const VOICE_ID = "cgSgspJ2msm6clMCkdW9";
 const CACHE_BUCKET = "tts-cache";
 
 type TtsRequestBody = { text?: unknown; language?: unknown };
